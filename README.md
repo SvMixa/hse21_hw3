@@ -28,7 +28,7 @@ MA-plot
 ![](img/picc00009.png)
 Первый
 
-![](img/picc00010.png)
+![](img/pic00010.png)
 Второй
 
 ![](img/picc00011.png)
